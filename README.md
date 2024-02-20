@@ -647,6 +647,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [NullAway](https://github.com/uber/NullAway) — Type-based null-pointer checker with low build-time overhead; an [Error Prone](http://errorprone.info/) plugin.
 
+- [OpenRewrite](https://docs.openrewrite.org/) — Large-scale automated source code refactoring using an open source "recipe" ecosystem.
+
 - [OWASP Dependency Check](https://owasp.org/www-project-dependency-check) — Checks dependencies for known, publicly disclosed, vulnerabilities.
 
 - [qulice](https://www.qulice.com) — Combines a few (pre-configured) static analysis tools (checkstyle, PMD, Findbugs, ...).
